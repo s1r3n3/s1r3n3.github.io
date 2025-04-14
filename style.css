@@ -59,6 +59,10 @@ button {
     border-radius: 50px;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .yes-btn{
     background-color: #610722;
     margin-left: -200px;
